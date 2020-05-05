@@ -88,11 +88,20 @@ let dogs = [
 ]
 
 // 1.
-var greeting;
+// greeting should take three inputs: greeting, location, and time //
+// greeting should concatenate these inputs and log them to the console //
+var greeting = (greeting, location, time) => {
+    let greet = `${greeting} + ${location} + ${time}`;
+    console.log(greet);
+}; 
 
 
 // 2.
-var contestants;
+// should return a count of the number of contestants //
+var contestants = function(dogArr){
+    let count = 0;
+    for(let dogs in dogA)
+};
 
 
 // 3.
