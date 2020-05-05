@@ -96,6 +96,7 @@ var greeting = (greeting, location, time) => {
 }; 
 
 
+
 // 2.
 // should return a count of the number of contestants //
 var contestants = function(dogArr){
@@ -104,8 +105,10 @@ var contestants = function(dogArr){
 };
 
 
+
 // 3.
 var filterSpecies;
+
 
 
 // 4. 
@@ -115,13 +118,11 @@ var dogContestants;
 
 // 5. 
 var dogsWithClasses;
-
     
 
 
 // 6.
 var firstInClass;
-
 
 
 
